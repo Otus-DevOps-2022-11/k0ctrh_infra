@@ -6,4 +6,4 @@ someinternalhost_IP = 10.128.0.19
 
 ssh -J user@bastion_ip user@someinternalhost_ip
 
-add someinternalhost to hosts file
+Доступ по имени можно сделать настроив alias
