@@ -2,8 +2,8 @@
 k0ctrh Infra repository
 
 bastion_IP = 158.160.53.65
-someinternalhost_IP = 10.128.0.19
-testapp_IP = 51.250.2.236
+someinternalhost_IP = 10.28.0.19
+testapp_IP = 158.160.51.13
 testapp_port = 9292
 
 ssh -J user@bastion_ip user@someinternalhost_ip
