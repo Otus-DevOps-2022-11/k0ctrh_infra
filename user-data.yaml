@@ -1,0 +1,8 @@
+#cloud-config
+users:
+  - name: koctrh
+    groups: sudo
+    shell: /bin/bash
+    sudo: ['ALL=(ALL) NOPASSWD:ALL']
+    ssh_authorized_keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC6TrNLUByEPmX8EKjqe97s/ugjdGWvwoUWZpAWnywE8e333DQdOvsiEKsfGIxPKncmdJfconzyomnowVzS4q5dGEsoWVHtGwW8twHMphc77wPl576PgFPDedrBRqZFlpeLh5UDy4delkXJuvNM9+j4UpT9fxzo5grEiQDZYjKa8i77T84B9eVJ2Z/0Hm+9RnUyr13jSy1tdVgrPy9OcXbgK/vnLZtLm92ni1Bk49k3vjlvDgX1QxuTiYlgPX7EGBuzHhgpk/ZO1IC5gOpW2K69Z+2aL92vctRSXeEzu9hbsCy8Jyqz/Fkz3ciqQmDo0CbYjVqFjVcZP1Gozf1etC90DT397/BnUYiPW/ibyNvnfN3MiP3vA+1Do+VSIbhWqwZviXJYcJhdTCMKYbszQeE6+/HbSboz4S3bdhSCzMIiVmGDY8MUIJxRHCIWc8aTfkUxsMumPCn/mGZO+svY0I4LHuFR1YdQwURV1/WDBOGSsRdElv7FWzXOlUwAXcQQq08= kot@localhost.localdomain
