@@ -3,5 +3,4 @@
             "source_image_id": "qwfsdfs23123e",
             "service_account_key_file": "./key.json",
             "ssh_username": "username",
-            "use_ip_nat: "true"
 }
