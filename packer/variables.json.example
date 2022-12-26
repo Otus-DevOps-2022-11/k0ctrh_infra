@@ -1,7 +1,7 @@
 {
-            "folder_id": "123",
-            "source_image_id": "qwe",
-            "service_account_key_file": "./secretplace/key.json",
+            "folder_id": "12sdfsdfsdfsdf3",
+            "source_image_id": "qwfsdfs23123e",
+            "service_account_key_file": "./key.json",
             "ssh_username": "username",
             "use_ip_nat: "true"
 }
