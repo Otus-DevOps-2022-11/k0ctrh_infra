@@ -16,3 +16,5 @@ yc compute instance create \
   --network-interface subnet-name=default-ru-central1-a,nat-ip-version=ipv4 \
   --metadata-from-file user-data=./user-data.yaml  \
   --metadata serial-port-enable=1 \
+
+## В рамках ДЗ packer-base eтилитой packer сделан образ для установки VM reddit-app
