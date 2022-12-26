@@ -17,4 +17,4 @@ yc compute instance create \
   --metadata-from-file user-data=./user-data.yaml  \
   --metadata serial-port-enable=1 \
 
-## В рамках ДЗ packer-base eтилитой packer сделан образ для установки VM reddit-app
+В рамках ДЗ packer-base утилитой packer сделан образ для установки VM reddit-app
