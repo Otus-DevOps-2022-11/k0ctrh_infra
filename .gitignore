@@ -6,4 +6,4 @@ variables.json
 *.tfvars
 .terraform/
 terraform/key.json
-
+*.retry
