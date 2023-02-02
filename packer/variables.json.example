@@ -2,5 +2,5 @@
             "folder_id": "12sdfsdfsdfsdf3",
             "source_image_id": "qwfsdfs23123e",
             "ssh_username": "username",
-            "key_file": "key.json"
+            "key_file": "./key.json"
 }
