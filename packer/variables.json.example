@@ -1,6 +1,6 @@
 {
             "folder_id": "12sdfsdfsdfsdf3",
             "source_image_id": "qwfsdfs23123e",
-            "service_account_key_file": "./key.json",
-            "ssh_username": "username"
+            "ssh_username": "username",
+            "service_account_key_file": "packer/key.json"
 }
